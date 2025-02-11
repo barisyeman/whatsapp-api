@@ -15,5 +15,8 @@ Before installing and running the project, ensure you have the following depende
 - Node.js (latest LTS version recommended)
 - npm or yarn
 - [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+- express
+- bodyParser
+- qrcode
 
 
