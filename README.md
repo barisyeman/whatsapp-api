@@ -1,4 +1,4 @@
-# Whatsapp POST-JSON API
+# NodeJS Whatsapp POST-JSON API
 
 ## About
 Whatsapp POST API. This small program receives the json post data coming via HTTP and sends a message to the number you want.
